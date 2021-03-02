@@ -30,6 +30,7 @@ Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻
 <code> <img alt="Javascript" width="30px" src="pngs/javascript.png"> </code>
 <code> <img alt="Nodejs" width="30px" src="pngs/node.png"> </code>
 <code> <img alt="Nestjs" width="30px" src="pngs/nest.svg"> </code>
+<code> <img alt="TypeORM" width="30px" src="https://avatars.githubusercontent.com/u/20165699?s=400&v=4"> </code>
 <code> <img alt="Postgres" width="30px" src="pngs/postgres.png"> </code>
 <code> <img alt="Notion" width="30px" src="pngs/Notion.png"> </code>
 <code> <img alt="Insomnia" width="30px" src="pngs/insomnia.svg"> </code>
