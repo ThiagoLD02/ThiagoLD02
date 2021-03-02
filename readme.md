@@ -2,7 +2,7 @@
 
 <h1> Olá, seja bem vinda(o) ao meu perfil do Github 😄❤️
 
-Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻
+Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻                                                 
 
 
 <a  href="https://www.linkedin.com/in/johnatadavi" >
@@ -19,7 +19,7 @@ Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻
 </a>
 </h1>
 
-##  Linguagens, Frameworks/bibliotecas e aplicativos
+## 📌 Linguagens, Frameworks/bibliotecas e aplicativos
 
 <code> <img alt="C++" width="30px" src="pngs/c.png"> </code>
 <code> <img alt="React" width="30px" src="pngs/react.png"> </code>
@@ -35,20 +35,24 @@ Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻
 </br>
 </br>
 
+## ✔️ Github status 
+
 <p aling="center">
-<a href="https://github.com/ThiagoLD02">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLD02&theme=tokyonight&langs_count=6&layout=compact"
-    />
-</a> 
-<a href="https://github.com/ThiagoLD02">
-    <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=ThiagoLD02&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight&hide=stars,prs,issues,contribs"
-    />
-</a>
+    <a href="https://github.com/ThiagoLD02">
+        <img 
+            align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLD02&theme=tokyonight&langs_count=6&layout=compact"
+        />
+    </a> 
+
+    <a href="https://github.com/ThiagoLD02">
+        <img
+            align="center"
+            height="165"
+            src="https://github-readme-stats.vercel.app/api?username=ThiagoLD02&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight&hide=stars,prs,issues,contribs"
+        />
+    </a>
+    
 </p>
 
 </br>
