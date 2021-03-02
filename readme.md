@@ -35,7 +35,7 @@ Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻
 </br>
 </br>
 
-<div display="flex" aling="center">
+<p aling="center">
 <a href="https://github.com/ThiagoLD02">
     <img
       align="center"
@@ -49,7 +49,7 @@ Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻
         src="https://github-readme-stats.vercel.app/api?username=ThiagoLD02&count_private=true&show_icons=true&custom_title=Github%20Status&theme=tokyonight&hide=stars,prs,issues,contribs"
     />
 </a>
-</div>
+</p>
 
 </br>
 
