@@ -2,7 +2,7 @@
 
 <h1> Olá, seja bem vinda(o) ao meu perfil do Github 😄❤️
 
-Me chamo Thiago Ramos Gomes, e sou um Desenvolvedor 💻                                                 
+Me chamo Thiago Ramos Gomes e sou um Desenvolvedor 💻                                                 
 
 
 <a  href="https://www.linkedin.com/in/ThiagoRamosG" >
