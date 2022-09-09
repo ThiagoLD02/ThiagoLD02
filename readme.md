@@ -9,11 +9,6 @@ Me chamo Thiago Ramos Gomes e sou um Desenvolvedor 💻
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
-
-<a href="https://api.whatsapp.com/send?phone=+5533988816913">
-    <img alt="Whatsapp" width="22px" src="pngs/whatsapp.png">
-</a>
-
 <a href="https://www.urionlinejudge.com.br/judge/pt/profile/362737">
     <img alt="Uri" width="30px" height="22px" src="pngs/uri.png">
 </a>
