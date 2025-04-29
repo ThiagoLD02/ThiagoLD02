@@ -1,8 +1,8 @@
 
 
-<h1> Olá, seja bem vinda(o) ao meu perfil do Github 😄❤️
+<h1> Hy there, welcome to my Github profile 😄❤️
 
-Me chamo Thiago Ramos Gomes e sou um Desenvolvedor 💻                                                 
+My name is Thiago Ramos Gomes and I'm a Developer 💻                                                 
 
 
 <a  href="https://www.linkedin.com/in/ThiagoRamosG" >
@@ -17,7 +17,7 @@ Me chamo Thiago Ramos Gomes e sou um Desenvolvedor 💻
 </br>
 </br>
 
-## 📌 Linguagens, Frameworks/bibliotecas e aplicativos
+## 📌 Languages, Frameworks/libraries and apps
 
 <code> <img alt="C++" width="30px" src="pngs/c.png"> </code>
 <code> <img alt="React" width="30px" src="pngs/react.png"> </code>
@@ -55,4 +55,4 @@ Me chamo Thiago Ramos Gomes e sou um Desenvolvedor 💻
 </br>
 </br>
 
-Se você gostou destes icones, eles são do autor <a href="https://www.freepik.com" title="Freepik">Freepik</a>, disponiveis no site <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Icons from <a href="https://www.freepik.com" title="Freepik">Freepik</a>, available at <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
